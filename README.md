@@ -7,5 +7,6 @@
 5. Tipe Data Map
 6. if and switch Expression
 7. For loops
+8. Break & Continue
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
