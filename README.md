@@ -6,9 +6,10 @@
 4. Tipe Data Slice
 5. Tipe Data Map
 6. if and switch Expression
-7. For loops
+7. For Loops
 8. Break & Continue
 9. Function
-10. Named return values
+10. Named Return Values
+11. Variadic Function
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
