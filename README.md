@@ -11,5 +11,6 @@
 9. Function
 10. Named Return Values
 11. Variadic Function
+12. Function Value
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
