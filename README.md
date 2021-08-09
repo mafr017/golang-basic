@@ -8,5 +8,6 @@
 6. if and switch Expression
 7. For loops
 8. Break & Continue
+9. Function
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
