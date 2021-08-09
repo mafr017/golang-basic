@@ -9,5 +9,6 @@
 7. For loops
 8. Break & Continue
 9. Function
+10. Named return values
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
