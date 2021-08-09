@@ -6,5 +6,6 @@
 4. Tipe Data Slice
 5. Tipe Data Map
 6. if and switch Expression
+7. For loops
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
