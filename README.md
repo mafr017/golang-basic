@@ -13,5 +13,6 @@
 11. Variadic Function
 12. Function Value
 13. Function as Parameter
+14. Anonymous Function
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
