@@ -18,5 +18,6 @@
 16. Closure
 17. Defer, Panic, & Recover
 18. Struct
+19. Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
