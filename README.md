@@ -15,5 +15,6 @@
 13. Function as Parameter
 14. Anonymous Function
 15. Recursive Function
+16. Closure
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
