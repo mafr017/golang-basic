@@ -16,5 +16,6 @@
 14. Anonymous Function
 15. Recursive Function
 16. Closure
+17. Defer, Panic, & Recover
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
