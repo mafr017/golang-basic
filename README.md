@@ -17,5 +17,6 @@
 15. Recursive Function
 16. Closure
 17. Defer, Panic, & Recover
+18. Struct
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
