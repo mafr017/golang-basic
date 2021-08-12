@@ -20,5 +20,6 @@
 18. Struct
 19. Interface
 20. Interface Kosong
+21. Nil
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
