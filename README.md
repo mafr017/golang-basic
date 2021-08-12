@@ -19,5 +19,6 @@
 17. Defer, Panic, & Recover
 18. Struct
 19. Interface
+20. Interface Kosong
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
