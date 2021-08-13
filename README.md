@@ -21,5 +21,6 @@
 19. Interface
 20. Interface Kosong
 21. Nil
+22. Error Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
