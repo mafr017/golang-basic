@@ -22,5 +22,6 @@
 20. Interface Kosong
 21. Nil
 22. Error Interface
+23. Type Assertions
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
