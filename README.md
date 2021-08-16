@@ -27,5 +27,6 @@
 25. Pointer di function
 26. Pointer di Method
 27. Package Standard
+27. Package Container/list (implementasi double linkedlist)
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
