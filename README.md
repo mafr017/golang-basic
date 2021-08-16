@@ -24,5 +24,6 @@
 22. Error Interface
 23. Type Assertions
 24. Pointer
+25. Pointer di function
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
