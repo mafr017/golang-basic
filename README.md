@@ -23,5 +23,6 @@
 21. Nil
 22. Error Interface
 23. Type Assertions
+24. Pointer
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
