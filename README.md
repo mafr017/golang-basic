@@ -26,5 +26,6 @@
 24. Pointer
 25. Pointer di function
 26. Pointer di Method
+27. Package Standard
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
