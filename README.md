@@ -1,5 +1,5 @@
 # Belajar Go-Lang Fundamental
-#### List Materi
+### List Materi :
 1. Tipe Data
 2. Operasi Matematika
 3. Tipe Data Array
@@ -25,5 +25,6 @@
 23. Type Assertions
 24. Pointer
 25. Pointer di function
+26. Pointer di Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
